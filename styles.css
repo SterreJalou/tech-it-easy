@@ -1,0 +1,16 @@
+body {
+    font-family: Poppins, sans-serif;
+    font-size:14px;
+}
+
+#total-sold h2 {
+    color:green;
+}
+
+#total-stock h2 {
+    color:blue;
+}
+
+#total-to-be-sold h2 {
+    color:red;
+}
